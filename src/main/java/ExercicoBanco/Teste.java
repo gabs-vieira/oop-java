@@ -1,4 +1,4 @@
-package Banco;
+package ExercicoBanco;
 
 public class Teste {
     public static void main(String[] args) {
@@ -15,5 +15,6 @@ public class Teste {
         conta2.depositar(2000);
 
         System.out.println("Saldo da conta 1: " + conta1.getSaldo());
+
     }
 }
